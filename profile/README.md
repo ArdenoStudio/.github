@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ArdenoStudio/.github/master/profile/logo.png" width="80" height="80" alt="Ardeno Studio" />
+<img src="https://raw.githubusercontent.com/ArdenoStudio/.github/master/profile/logo.svg" width="90" height="90" alt="Ardeno Studio" />
 
 # Ardeno Studio
 
