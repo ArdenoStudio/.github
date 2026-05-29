@@ -42,6 +42,7 @@ We are a small studio, so our work stays direct: strategy, interface design, pro
 | [Dinaya](https://github.com/ArdenoStudio/dinaya) | Booking SaaS for Sri Lankan SMBs with a public product surface. | TypeScript |
 | [Octane](https://github.com/ArdenoStudio/octane) | Sri Lanka fuel price tracker with history, alerts, widgets, and an open API. | TypeScript |
 | [PropertyLK](https://github.com/ArdenoStudio/sri-lanka-property-price-intelligence-platform) | Real-estate price intelligence, scraping, geocoding, heatmaps, and deal scoring. | TypeScript |
+| [Vehicle Platform](https://github.com/SuvenSeo/Vehicle-Platform) | AutoLens LK vehicle-price intelligence for Sri Lanka with listings, fair-price signals, comparisons, and dashboard analytics. | FastAPI, React, Supabase |
 | [Life Platform](https://github.com/ArdenoStudio/life-platform) | Sri Lanka living-intelligence work connecting food, fuel, property, and vehicle signals. | Python |
 | [Seylan Hub](https://github.com/ArdenoStudio/seylan-hub) | AI banking demo with wallets, voice assistant, loan health, and SME tooling. | TypeScript |
 
