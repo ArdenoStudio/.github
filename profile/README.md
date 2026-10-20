@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArdenoStudio/.github/master/profile/banner-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArdenoStudio/.github/master/profile/banner.svg" />
-  <img src="https://raw.githubusercontent.com/ArdenoStudio/.github/master/profile/banner.svg" alt="ardeno — websites for brands that refuse to blend in" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArdenoStudio/.github/master/profile/banner-dark-v3.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArdenoStudio/.github/master/profile/banner-light-v3.svg" />
+  <img src="https://raw.githubusercontent.com/ArdenoStudio/.github/master/profile/banner-light-v3.svg" alt="ardeno — websites for brands that refuse to blend in" width="100%" />
 </picture>
 
 <br />
