@@ -1,71 +1,75 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ArdenoStudio/.github/master/profile/banner.svg" alt="Ardeno Studio - Websites, systems, AI" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArdenoStudio/.github/master/profile/banner-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArdenoStudio/.github/master/profile/banner.svg" />
+  <img src="https://raw.githubusercontent.com/ArdenoStudio/.github/master/profile/banner.svg" alt="ardeno — websites for brands that refuse to blend in" width="100%" />
+</picture>
 
 <br />
 
-[![Website](https://img.shields.io/badge/Website-ardenostudio.online-E50914?style=for-the-badge&labelColor=080809)](https://www.ardenostudio.online)
-[![Docs](https://img.shields.io/badge/Studio_Docs-process_&_handoff-111111?style=for-the-badge&labelColor=080809)](https://www.ardenostudio.online/docs)
-[![Case Studies](https://img.shields.io/badge/Case_Studies-proof_led_work-111111?style=for-the-badge&labelColor=080809)](https://www.ardenostudio.online/case-studies)
-[![Email](https://img.shields.io/badge/Email-ardenostudio@gmail.com-111111?style=for-the-badge&labelColor=080809)](mailto:ardenostudio@gmail.com)
+[![Website](https://img.shields.io/badge/ardenostudio.com-FF3301?style=for-the-badge&labelColor=20211F&logoColor=F4F4F2)](https://ardenostudio.com)
+[![Email](https://img.shields.io/badge/hello@ardenostudio.com-20211F?style=for-the-badge&labelColor=20211F&logoColor=F4F4F2)](mailto:hello@ardenostudio.com)
 
 </div>
 
-## Ardeno Studio
+# ardeno
 
-Ardeno Studio builds premium websites, business systems, AI assistants, and public-data products for Sri Lankan businesses and teams that need a sharper digital edge.
+**A web design & development studio in Colombo, Sri Lanka.**
 
-We are a small studio, so our work stays direct: strategy, interface design, product engineering, launch hardening, and handoff without agency bloat.
+We build websites, booking systems, and AI lead assistants for businesses that have outgrown templates — and products that put Sri Lankan data to work. Small studio, senior work, direct line to the people building your thing. No account managers, no handoffs into the void.
 
 <table>
   <tr>
-    <td width="33%">
+    <td width="33%" valign="top">
       <h3>Websites</h3>
-      <p>High-trust marketing sites, brand-led interfaces, case-study pages, launch flows, and conversion-focused frontends.</p>
+      <p>Brand-led marketing sites engineered to load fast, read credibly, and convert. Designed around your business — never a cloned layout.</p>
     </td>
-    <td width="33%">
+    <td width="33%" valign="top">
       <h3>Systems</h3>
-      <p>Booking flows, client portals, dashboards, admin tooling, and operational software for businesses that have outgrown spreadsheets.</p>
+      <p>Booking &amp; ordering flows, client portals, dashboards, and operational tools for teams that have outgrown spreadsheets and chat threads.</p>
     </td>
-    <td width="33%">
-      <h3>Intelligence</h3>
-      <p>AI lead assistants, source-backed data platforms, market signals, and Sri Lanka-specific product experiments.</p>
+    <td width="33%" valign="top">
+      <h3>AI &amp; Data</h3>
+      <p>AI lead assistants that answer, qualify, and guide visitors after hours — and source-backed data platforms with provenance on every number.</p>
     </td>
   </tr>
 </table>
 
-## Public Work
+## Selected work
 
-| Project | What it shows | Stack |
+| Client | The build | Live |
 |---|---|---|
-| [Ardeno Website](https://github.com/ArdenoStudio/ardeno-website) | Our studio site, docs, brand pages, SEO surfaces, and client enquiry flow. | React, TypeScript, Vite |
-| [Dinaya](https://github.com/ArdenoStudio/dinaya) | Booking SaaS for Sri Lankan SMBs with a public product surface. | TypeScript |
-| [Octane](https://github.com/ArdenoStudio/octane) | Sri Lanka fuel price tracker with history, alerts, widgets, and an open API. | TypeScript |
-| [PropertyLK](https://github.com/ArdenoStudio/sri-lanka-property-price-intelligence-platform) | Real-estate price intelligence, scraping, geocoding, heatmaps, and deal scoring. | TypeScript |
-| [Vehicle Platform](https://github.com/SuvenSeo/Vehicle-Platform) | AutoLens LK vehicle-price intelligence for Sri Lanka with listings, fair-price signals, comparisons, and dashboard analytics. | FastAPI, React, Supabase |
-| [Life Platform](https://github.com/ArdenoStudio/life-platform) | Sri Lanka living-intelligence work connecting food, fuel, property, and vehicle signals. | Python |
-| [Seylan Hub](https://github.com/ArdenoStudio/seylan-hub) | AI banking demo with wallets, voice assistant, loan health, and SME tooling. | TypeScript |
+| **Ceylon Hygiene Solutions** | Corporate site for one of Colombo's commercial janitorial firms — service proof, trust signals, WhatsApp-first enquiry | [ceylonhygienesolutions.lk](https://www.ceylonhygienesolutions.lk) |
+| **Serendib Trading** | Vehicle dealership website with live inventory presence | [serendibtrading.lk](https://serendibtrading.lk) |
+| **Wax in the City** | Ladies-only salon — two branches, service-led design, booking intent throughout | [waxinthecity.lk](https://waxinthecity.lk) |
+| **Sino Bridge Trading International** | Import &amp; export corporate site and product catalogue | *In delivery* |
 
-## How We Build
+## Products we're building
 
-- **Design first, but not decoration first** - interface decisions have to make the product clearer, faster, or more trustworthy.
-- **No-template delivery** - the visual system, copy, and interactions are shaped around the business, not a cloned layout.
-- **Runtime truth** - launches get checked through builds, browser passes, SEO surfaces, and security-sensitive routes.
-- **Transparent handoff** - clients get source, deployment context, and practical documentation instead of a mystery box.
+| Product | What it is | Live |
+|---|---|---|
+| **[Lankawa](https://github.com/ArdenoStudio/lankawa)** | Sri Lanka's civic intelligence platform — economy, a 25-district atlas, disasters, news, and public services | [lankawa.vercel.app](https://lankawa.vercel.app) |
+| **CeyFi** | Financial clarity for Sri Lankans — personal, business, and organisations | [ceyfi.app](https://ceyfi.app) |
+| **[Motormila](https://github.com/SuvenSeo/Vehicle-Platform)** | Vehicle market prices &amp; deal tracking — live market values, underpriced-deal alerts, per-model trends | [motormila.pages.dev](https://motormila.pages.dev) |
+| **[Dinaya](https://github.com/Dinaya-lk/dinaya)** | Booking &amp; deposits for service businesses — it gives WhatsApp a booking link | [dinaya.lk](https://dinaya.lk) |
+| **[Octane](https://github.com/ArdenoStudio/octane)** | Fuel price tracker for Sri Lanka — history, alerts, widgets, open API | [octane-smoky.vercel.app](https://octane-smoky.vercel.app) |
+| **[PropertyLK](https://github.com/ArdenoStudio/sri-lanka-property-price-intelligence-platform)** | Real-estate price intelligence — geocoding, heatmaps, deal scoring | [propertylk-one.vercel.app](https://propertylk-one.vercel.app) |
 
-## Studio Links
+## How we build
 
-| Surface | Link |
-|---|---|
-| Website | [ardenostudio.online](https://www.ardenostudio.online) |
-| Docs | [Process, services, pricing, privacy, and handoff](https://www.ardenostudio.online/docs) |
-| Case studies | [Proof-led project stories](https://www.ardenostudio.online/case-studies) |
-| Contact | [ardenostudio@gmail.com](mailto:ardenostudio@gmail.com) |
+- **Design first, but not decoration first.** Every decision has to make the product clearer, faster, or more trustworthy.
+- **No templates. Ever.** The visual system, copy, and interactions are shaped around the business.
+- **Runtime truth.** Launches are verified live — builds, browser passes, SEO surfaces, security-sensitive routes. If we say it's checked, it's checked.
+- **Transparent handoff.** Source, deployment context, and documentation. No mystery boxes, no lock-in.
+
+## Work with us
+
+Building something that needs to look as serious as it is?
+
+**[ardenostudio.com](https://ardenostudio.com)** · **[hello@ardenostudio.com](mailto:hello@ardenostudio.com)** · Colombo, Sri Lanka · Remote-ready
 
 <div align="center">
-
 <br />
-
-<strong>Sri Lanka-built. Remote-ready. Premium by default.</strong>
-
+<sub>Sri Lanka-built. Premium by default.</sub>
 </div>
