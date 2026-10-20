@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
+  <title id="title">ardeno — websites, systems, ai</title>
+  <desc id="desc">Ardeno Studio. Web design and development studio, Colombo, Sri Lanka.</desc>
+  <rect width="1600" height="520" rx="42" fill="#20211F"/>
+  <rect x="72" y="64" width="1456" height="1.5" fill="#3A3B38"/>
+  <text x="72" y="48" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" letter-spacing="6" fill="#9A9B96">ARDENO STUDIO — COLOMBO, SRI LANKA</text>
+  <text x="1468" y="48" text-anchor="end" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" letter-spacing="6" fill="#FF3301">EST. 2026</text>
+
+  <g transform="translate(72,118)">
+    <path d="M64 0 L128 168 L96 168 L64 76 L32 168 L0 168 Z" fill="#F4F4F2"/>
+    <path d="M64 0 L128 168 L108 168 L64 44 Z" fill="#FF3301"/>
+    <rect x="38" y="118" width="52" height="13" fill="#F4F4F2"/>
+  </g>
+
+  <text x="248" y="252" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="148" font-weight="600" letter-spacing="-6" fill="#F4F4F2">ardeno</text>
+  <circle cx="800" cy="238" r="13" fill="#FF3301"/>
+
+  <text x="252" y="316" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="37" font-weight="400" letter-spacing="-0.5" fill="#F4F4F2">Websites for brands that <tspan font-style="italic">refuse to blend in.</tspan></text>
+
+  <rect x="72" y="392" width="1456" height="1.5" fill="#3A3B38"/>
+  <text x="72" y="440" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="23" letter-spacing="5" fill="#9A9B96">WEBSITES</text>
+  <circle cx="298" cy="432" r="5" fill="#FF3301"/>
+  <text x="330" y="440" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="23" letter-spacing="5" fill="#9A9B96">BOOKING SYSTEMS</text>
+  <circle cx="682" cy="432" r="5" fill="#FF3301"/>
+  <text x="714" y="440" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="23" letter-spacing="5" fill="#9A9B96">AI LEAD ASSISTANTS</text>
+  <circle cx="1112" cy="432" r="5" fill="#FF3301"/>
+  <text x="1144" y="440" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="23" letter-spacing="5" fill="#9A9B96">DATA PRODUCTS</text>
+  <text x="72" y="484" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="20" fill="#9A9B96">ardenostudio.com</text>
+  <text x="1528" y="484" text-anchor="end" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="20" fill="#9A9B96">hello@ardenostudio.com</text>
+</svg>
