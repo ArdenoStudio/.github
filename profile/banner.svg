@@ -1,63 +1,31 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
-  <title id="title">Ardeno Studio GitHub profile banner</title>
-  <desc id="desc">Dark editorial Ardeno Studio banner with red brand mark and positioning copy.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
-      <stop offset="0" stop-color="#050506"/>
-      <stop offset="0.42" stop-color="#080809"/>
-      <stop offset="1" stop-color="#111113"/>
-    </linearGradient>
-    <radialGradient id="redGlow" cx="22%" cy="28%" r="72%">
-      <stop offset="0" stop-color="#e50914" stop-opacity="0.34"/>
-      <stop offset="0.42" stop-color="#e50914" stop-opacity="0.10"/>
-      <stop offset="1" stop-color="#e50914" stop-opacity="0"/>
-    </radialGradient>
-    <linearGradient id="line" x1="0" x2="1">
-      <stop offset="0" stop-color="#e50914" stop-opacity="0.95"/>
-      <stop offset="0.48" stop-color="#ffffff" stop-opacity="0.20"/>
-      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
-    </linearGradient>
-    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="24" stdDeviation="26" flood-color="#000000" flood-opacity="0.55"/>
-    </filter>
-  </defs>
+  <title id="title">ardeno — websites, systems, ai</title>
+  <desc id="desc">Ardeno Studio. Web design and development studio, Colombo, Sri Lanka.</desc>
+  <rect width="1600" height="520" rx="42" fill="#F4F4F2"/>
+  <rect x="72" y="64" width="1456" height="1.5" fill="#D8D9D4"/>
+  <text x="72" y="48" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" letter-spacing="6" fill="#62635F">ARDENO STUDIO — COLOMBO, SRI LANKA</text>
+  <text x="1468" y="48" text-anchor="end" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" letter-spacing="6" fill="#FF3301">EST. 2026</text>
 
-  <rect width="1600" height="520" rx="42" fill="url(#bg)"/>
-  <rect width="1600" height="520" rx="42" fill="url(#redGlow)"/>
-  <path d="M0 408 C250 326 446 428 695 354 C908 290 1058 192 1600 248" fill="none" stroke="#ffffff" stroke-opacity="0.04" stroke-width="92"/>
-  <path d="M0 114 H1600" stroke="#ffffff" stroke-opacity="0.06"/>
-  <path d="M0 432 H1600" stroke="#ffffff" stroke-opacity="0.06"/>
-  <path d="M120 132 H760" stroke="url(#line)" stroke-width="2"/>
-
-  <g filter="url(#softShadow)">
-    <rect x="108" y="158" width="180" height="180" rx="34" fill="#111111" stroke="#ffffff" stroke-opacity="0.10"/>
-    <path fill="#ff3301" d="M242.9 296.8 217.4 245.5c-7.5 6.7-14.1 18.5-13.7 28.1l7.7 15.2c.3.5.8 1 1.3 1.2l27.2 10.1c2 .8 3.9-1.4 3-3.3ZM197.1 268.8c-.1.1-.2.2-.2.3l-9.7 19.7c-.3.6-.8 1-1.3 1.2l-27.7 10.3c-2.1.8-4-1.3-3.1-3.3l41.1-85c.9-1.8 3.5-1.8 4.4 0l15.8 31.9c-8.7 6.2-15.5 14.9-19.3 24.9Z"/>
+  <!-- Angular A mark -->
+  <g transform="translate(72,118)">
+    <path d="M64 0 L128 168 L96 168 L64 76 L32 168 L0 168 Z" fill="#20211F"/>
+    <path d="M64 0 L128 168 L108 168 L64 44 Z" fill="#FF3301"/>
+    <rect x="38" y="118" width="52" height="13" fill="#20211F"/>
   </g>
 
-  <text x="334" y="205" fill="#e9e9e9" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing="6">ARDENO STUDIO</text>
-  <text x="334" y="280" fill="#ffffff" font-family="Georgia, 'Times New Roman', serif" font-size="72" font-weight="700">Websites, systems, AI.</text>
-  <text x="336" y="326" fill="#b7b7b7" font-family="Arial, Helvetica, sans-serif" font-size="23">Premium websites, business systems, and AI products for Sri Lankan teams.</text>
-  <text x="336" y="360" fill="#8f8f8f" font-family="Arial, Helvetica, sans-serif" font-size="20">Designed for trust, speed, and launch-ready handoff.</text>
+  <text x="248" y="252" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="148" font-weight="600" letter-spacing="-6" fill="#20211F">ardeno</text>
+  <circle cx="800" cy="238" r="13" fill="#FF3301"/>
 
-  <g transform="translate(336 396)">
-    <rect width="178" height="40" rx="20" fill="#e50914"/>
-    <text x="28" y="26" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2">NO TEMPLATES</text>
-  </g>
-  <g transform="translate(530 396)">
-    <rect width="166" height="40" rx="20" fill="#ffffff" fill-opacity="0.055" stroke="#ffffff" stroke-opacity="0.12"/>
-    <text x="26" y="26" fill="#d8d8d8" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2">SECURE BUILD</text>
-  </g>
-  <g transform="translate(714 396)">
-    <rect width="192" height="40" rx="20" fill="#ffffff" fill-opacity="0.055" stroke="#ffffff" stroke-opacity="0.12"/>
-    <text x="26" y="26" fill="#d8d8d8" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2">LOCAL INTEL</text>
-  </g>
+  <text x="252" y="316" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="37" font-weight="400" letter-spacing="-0.5" fill="#20211F">Websites for brands that <tspan font-style="italic">refuse to blend in.</tspan></text>
 
-  <g opacity="0.72">
-    <rect x="1260" y="146" width="210" height="54" rx="18" fill="#ffffff" fill-opacity="0.035" stroke="#ffffff" stroke-opacity="0.08"/>
-    <rect x="1200" y="226" width="270" height="54" rx="18" fill="#ffffff" fill-opacity="0.035" stroke="#ffffff" stroke-opacity="0.08"/>
-    <rect x="1290" y="306" width="180" height="54" rx="18" fill="#ffffff" fill-opacity="0.035" stroke="#ffffff" stroke-opacity="0.08"/>
-    <path d="M1300 173 H1432" stroke="#ffffff" stroke-opacity="0.13" stroke-width="4" stroke-linecap="round"/>
-    <path d="M1240 253 H1430" stroke="#ffffff" stroke-opacity="0.13" stroke-width="4" stroke-linecap="round"/>
-    <path d="M1326 333 H1432" stroke="#ff3301" stroke-opacity="0.44" stroke-width="4" stroke-linecap="round"/>
-  </g>
+  <rect x="72" y="392" width="1456" height="1.5" fill="#D8D9D4"/>
+  <text x="72" y="440" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="23" letter-spacing="5" fill="#62635F">WEBSITES</text>
+  <circle cx="298" cy="432" r="5" fill="#FF3301"/>
+  <text x="330" y="440" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="23" letter-spacing="5" fill="#62635F">BOOKING SYSTEMS</text>
+  <circle cx="682" cy="432" r="5" fill="#FF3301"/>
+  <text x="714" y="440" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="23" letter-spacing="5" fill="#62635F">AI LEAD ASSISTANTS</text>
+  <circle cx="1112" cy="432" r="5" fill="#FF3301"/>
+  <text x="1144" y="440" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="23" letter-spacing="5" fill="#62635F">DATA PRODUCTS</text>
+  <text x="72" y="484" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="20" fill="#62635F">ardenostudio.com</text>
+  <text x="1528" y="484" text-anchor="end" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="20" fill="#62635F">hello@ardenostudio.com</text>
 </svg>
